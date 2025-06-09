@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Beatriz Morais Laranjinha and I am a CS Student<br><br>- 🔭 I'm currently working on various programming projects,<br>- 📚 I'm studying Computer Science,<br>- ⚡ In my free time I enjoy coding and learning new technologies.</p>
+<p align="left">My name is Beatriz Morais Laranjinha and I am a CS Student at Universidade da Beira Interior 📚<br>
 
 ###
 
