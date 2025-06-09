@@ -39,7 +39,7 @@
 
 ###
 
-<img src="https://leetcard.jacoblin.cool/beatrizlaranjinha?theme=dark&font=Allerta&ext=none" alt="LeetCode Stats" />
+
 
 ###
 
@@ -59,7 +59,7 @@
   </tbody>
 </table>
 
-<h3 align="left">🚀 Personal Projects</h3>
+<h3 align="left">🎀 Personal Projects</h3>
 
 <table>
   <thead>
