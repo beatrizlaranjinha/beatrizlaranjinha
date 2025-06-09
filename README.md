@@ -1,11 +1,75 @@
+<div align="center">
+     <a href="https://github.com/beatrizlaranjinha" target="blank">
+     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github badge" /> 
+   </a>
+  <a href="https://www.linkedin.com/in/beatrizlaranjinha/" target="blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-### Hi, I'm Beatriz!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha&"  />
+</div>
 
-👩🏻‍💻 Computer science student <br/>
-🎓 Currently studying at the [University of Beira Interior](https://www.ubi.pt/) <br/>
+###
 
+<h1 align="center">Hi There! 👋</h1>
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=plastic&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">My name is Beatriz Morais Laranjinha and I am a CS Student<br><br>- 🔭 I'm currently working on various programming projects,<br>- 📚 I'm studying Computer Science,<br>- ⚡ In my free time I enjoy coding and learning new technologies.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,ocaml,java,docker)
+
+###
+
+<h3 align="left">🎯 LeetCode</h3>
+
+###
+
+<img src="https://leetcard.jacoblin.cool/beatrizlaranjinha?theme=dark&font=Allerta&ext=none" alt="LeetCode Stats" />
+
+###
+
+<h3 align="left">🎓  University Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Class</th>
+      <th>Languages Used</th>
+      <th>Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- University projects will be added here -->
+  </tbody>
+</table>
+
+<h3 align="left">🚀 Personal Projects</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Personal projects will be added here -->
+  </tbody>
+</table>
