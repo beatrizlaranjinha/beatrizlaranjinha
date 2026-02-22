@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hi There! 👋</h1>
+<h1 align="center">Hi There! 🎀</h1>
 
 ###
 
@@ -31,45 +31,6 @@
 
 ###
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,python,ocaml,java,docker)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ocaml,c,rust,java,python)
 
 ###
-
-<h3 align="left">🎯 LeetCode</h3>
-
-###
-
-
-
-###
-
-<h3 align="left">🎓  University Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Class</th>
-      <th>Languages Used</th>
-      <th>Grade</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- University projects will be added here -->
-  </tbody>
-</table>
-
-<h3 align="left">🎀 Personal Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Personal projects will be added here -->
-  </tbody>
-</table>
