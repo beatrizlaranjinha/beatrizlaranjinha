@@ -29,10 +29,10 @@ My name is Beatriz and I am a CS student at Universidade da Beira Interior 📚
 
 <br>
 
-<h3 align="center">☕ Buy Me a Coffee</h3>
+
 
 <p align="center">
-  Support my late-night coding sessions with a coffee ☕
+  Fueled by curiosity and a little too much coffee ☕
 </p>
 
 <div align="center">
@@ -49,9 +49,8 @@ My name is Beatriz and I am a CS student at Universidade da Beira Interior 📚
 
 <br>
 
-<div align="center">
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ocaml,c,rust,java,python)
 
-</div>
+
 
