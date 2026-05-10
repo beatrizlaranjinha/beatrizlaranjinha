@@ -23,20 +23,16 @@
 
 <br>
 
-<h3 align="center">👩🏻‍💻 About Me</h3>
+👩🏻‍💻 About Me</h3>
 
-<p align="center">
-  My name is Beatriz Morais Laranjinha <br>
-  and I am a Computer Science student at <br>
-  Universidade da Beira Interior 📚
-</p>
+My name is Beatriz and I am a CS student at Universidade da Beira Interior 📚
 
 <br>
 
 <h3 align="center">☕ Buy Me a Coffee</h3>
 
 <p align="center">
-  Support my late-night coding sessions with a coffee ☕💖
+  Support my late-night coding sessions with a coffee ☕
 </p>
 
 <div align="center">
@@ -49,7 +45,7 @@
 
 <br>
 
-<h3 align="center">🛠 Languages & Tools</h3>
+🛠 Languages & Tools</h3>
 
 <br>
 
