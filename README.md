@@ -11,9 +11,12 @@
 
 </div>
 
+
+<br>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha&right_color=ffb6c1" />
 </div>
+<br>
 
 <h1 align="center">Hi There! 🎀</h1>
 
