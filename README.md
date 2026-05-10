@@ -11,11 +11,9 @@
 
 </div>
 
-<br>
-
-<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha&left_color=ffb6c1&right_color=ffb6c1" /> </div>
-
-<br>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha&right_color=ffb6c1" />
+</div>
 
 <h1 align="center">Hi There! 🎀</h1>
 
@@ -23,9 +21,12 @@
 
 👩🏻‍💻 About Me</h3>
 
-My name is Beatriz and I am a CS student at Universidade da Beira Interior 📚
 
-<br>
+My name is Beatriz and I am a CS student at Universidade da Beira Interior 
+
+I enjoy learning about cryptography and cybersecurity.
+  
+I also enjoy movies, music and sports.
 
 
 
