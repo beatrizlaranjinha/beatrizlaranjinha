@@ -6,16 +6,14 @@
   </a>
 
   <a href="https://www.linkedin.com/in/beatrizlaranjinha090306" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha" />
-</div>
+<div align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=beatrizlaranjinha.beatrizlaranjinha&left_color=ffb6c1&right_color=ffb6c1" /> </div>
 
 <br>
 
