@@ -15,19 +15,15 @@
 
 ###
 
-<h1 align="center">Hi There! 🎀</h1>
-
-<h3 align="left">☕ Buy Me a Coffee</h3>
+<h3 align="left">☕ A Little Coffee for Coding?</h3>
 
 <p align="left">
-If you like my projects and want to support my work, you can buy me a coffee ☕🎀<br><br>
-
-<a href="https://buymeacoffee.com/laranjinha" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" />
-</a>
+Support my late-night coding sessions with a coffee ☕💖
 </p>
 
-
+<a href="https://buymeacoffee.com/laranjinha" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFC0CB?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+</a>
 ###
 
 <h3 align="left">👩🏻‍💻  About Me</h3>
