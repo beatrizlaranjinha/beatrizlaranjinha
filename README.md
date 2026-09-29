@@ -25,7 +25,7 @@
 👩🏻‍💻 About Me</h3>
 
 
-My name is Beatriz and I am a CS student at Universidade da Beira Interior 
+My name is Beatriz and I am a MSc Student in Computer Science at NOVA School of Science and Technology.
 
 I enjoy learning about cryptography and cybersecurity.
   
