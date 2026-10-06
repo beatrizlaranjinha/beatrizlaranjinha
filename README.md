@@ -9,8 +9,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 
-</div>
+  <a href="https://letterboxd.com/laranjinhaaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-ffb6c1?style=for-the-badge&logo=letterboxd&logoColor=white" height="30" />
+  </a>
 
+  <a href="https://www.goodreads.com/user/show/197116966-beatriz-laranjinha" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-000000?style=for-the-badge&logo=goodreads&logoColor=white" height="30" />
+  </a>
+
+</div>
 
 <br>
 <div align="center">
